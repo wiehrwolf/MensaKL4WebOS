@@ -1,0 +1,10 @@
+{
+	"id": "com.brunnlieb.net.mensakl",
+	"version": "0.2.1",
+	"vendor": "brunnlieb.net",
+	"type": "web",
+	"main": "index.html",
+	"title": "Mensa KL",
+	"icon": "icon.png",
+	"smallicon": "icon.png"
+}
